@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'HelloWorld ....change #1',
   props: {
     msg: String
   },
